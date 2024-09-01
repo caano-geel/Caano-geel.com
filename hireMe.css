@@ -1,0 +1,38 @@
+.hire-me{
+    background-color: yellow;
+    width: 25%;
+    border-radius: 8px;
+    border-radius: 8px;
+    margin-left: 40%;
+    padding: 5px;
+}
+
+.message-containner{
+    background-color: rgb(37, 231, 147);
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: rgb(28, 94, 164);
+}
+
+
+
+ .congratulations {
+            text-align: center;
+            font-size: 1em;
+            color: #d747ff; /* Tomato color for a vibrant effect */
+            animation: bounce 1.5s infinite;
+        }
+
+        @keyframes bounce {
+            0%, 20%, 50%, 80%, 100% {
+                transform: translateY(0);
+            }
+            40% {
+                transform: translateY(-30px);
+            }
+            60% {
+                transform: translateY(-15px);
+            }
+        }
